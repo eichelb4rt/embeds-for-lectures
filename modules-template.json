@@ -1,0 +1,34 @@
+[
+    {
+        "title": "How to deliver Pizza",
+        "lecturer": "@Pizza",
+        "id": "PBU-0001",
+        "properties": [
+            "Art: Vorlesung/Übung",
+            "Credits: 9 LP"
+        ],
+        "contents": "Working with Pizza Bakes, Learning how to Drive, Persuasion for Tips"
+    },
+    {
+        "title": "How to deliver Pizza, but fast",
+        "lecturer": "@Pizza",
+        "id": "PBU-0002",
+        "properties": [
+            "Art: Vorlesung",
+            "Credits: 6 LP",
+            "PBU-0001 needed for this lecture."
+        ],
+        "contents": "Graph Algorithms, Optimization Problems, Solving P vs NP"
+    },
+    {
+        "title": "How to make Pasta",
+        "lecturer": "@Housten",
+        "id": "PBU-0004",
+        "properties": [
+            "Art: Übung",
+            "Credits: 6 LP",
+            "Sprache: Englisch"
+        ],
+        "aims": "You should be able to make some really nice pasta"
+    }
+]

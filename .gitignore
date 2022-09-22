@@ -1,0 +1,7 @@
+# IDE
+.vscode
+
+# privacy
+lecturers.json
+modules.json
+config.json
