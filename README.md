@@ -1,5 +1,7 @@
 # Embeds for lectures
 
+Configure your stuff, then `python send.py`.
+
 ## Config
 
 Create the file `config.json`, just like `config-template.json`. Insert your webhook url where you need it. The embeds are then sent to that webhook, with the colour you specified in the config.
